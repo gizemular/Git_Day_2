@@ -5,5 +5,7 @@ public class Cantacpage {
     // facebook
     //twitter
     //instagram
+    //youtube
+    //email
 
 }
